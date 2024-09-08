@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Computer Hacking 101</title>
+    <link>http://localhost:1313/categories/windows/</link>
+    <description>Recent content in Windows on Computer Hacking 101</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Feb 2023 19:54:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Turn Off Microsoft Spying and Protect Your Privacy</title>
+      <link>http://localhost:1313/tutorials/windows/turn_off_microsoft_spying/</link>
+      <pubDate>Tue, 14 Feb 2023 19:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/windows/turn_off_microsoft_spying/</guid>
+      <description>Title: How to Turn Off Microsoft Spying and Protect Your Privacy&#xA;With the rise of technology, privacy has become a major concern for many people. Microsoft has faced criticism for collecting user data through its products and services, but don&#39;t worry, you can take control of your privacy and turn off Microsoft&#39;s data collection with just a few simple steps.&#xA;Step 1: Review Privacy Settings in Windows 10 The first step to turning off Microsoft spying is to review your privacy settings in Windows 10.</description>
+    </item>
+    <item>
+      <title>Install Syncthing on Windows</title>
+      <link>http://localhost:1313/tutorials/syncthing/installing-syncthing-on-windows/</link>
+      <pubDate>Tue, 22 Feb 2022 19:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/syncthing/installing-syncthing-on-windows/</guid>
+      <description>To Install Syncthing on Windows there are two ways of installing it. One is with synctrazor which I will walkthrough below. It also comes with the benefit of having a GUI(Graphical User Interface).&#xA;1. Download Synctrazor The first step is to download Synctrazor. You can download it from the following link.&#xA;1https://github.com/canton7/SyncTrayzor/#installation` When you go to the page you need to click on Download SyncTrayzorSetup-x64.exe. This will download the executable file.</description>
+    </item>
+  </channel>
+</rss>

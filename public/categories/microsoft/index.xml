@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft on Computer Hacking 101</title>
+    <link>http://localhost:1313/categories/microsoft/</link>
+    <description>Recent content in Microsoft on Computer Hacking 101</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Feb 2023 19:54:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Turn Off Microsoft Spying and Protect Your Privacy</title>
+      <link>http://localhost:1313/tutorials/windows/turn_off_microsoft_spying/</link>
+      <pubDate>Tue, 14 Feb 2023 19:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/windows/turn_off_microsoft_spying/</guid>
+      <description>Title: How to Turn Off Microsoft Spying and Protect Your Privacy&#xA;With the rise of technology, privacy has become a major concern for many people. Microsoft has faced criticism for collecting user data through its products and services, but don&#39;t worry, you can take control of your privacy and turn off Microsoft&#39;s data collection with just a few simple steps.&#xA;Step 1: Review Privacy Settings in Windows 10 The first step to turning off Microsoft spying is to review your privacy settings in Windows 10.</description>
+    </item>
+  </channel>
+</rss>

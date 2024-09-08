@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syncthing on Computer Hacking 101</title>
+    <link>http://localhost:1313/tutorials/syncthing/</link>
+    <description>Recent content in Syncthing on Computer Hacking 101</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Feb 2023 19:54:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tutorials/syncthing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Syncthing on Windows</title>
+      <link>http://localhost:1313/tutorials/syncthing/installing-syncthing-on-windows/</link>
+      <pubDate>Tue, 22 Feb 2022 19:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/syncthing/installing-syncthing-on-windows/</guid>
+      <description>To Install Syncthing on Windows there are two ways of installing it. One is with synctrazor which I will walkthrough below. It also comes with the benefit of having a GUI(Graphical User Interface).&#xA;1. Download Synctrazor The first step is to download Synctrazor. You can download it from the following link.&#xA;1https://github.com/canton7/SyncTrayzor/#installation` When you go to the page you need to click on Download SyncTrayzorSetup-x64.exe. This will download the executable file.</description>
+    </item>
+    <item>
+      <title>Install Syncthing on Linux</title>
+      <link>http://localhost:1313/docs/syncthing/installing-syncthing-on-linux/</link>
+      <pubDate>Wed, 02 Feb 2022 19:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/docs/syncthing/installing-syncthing-on-linux/</guid>
+      <description>Step 1 add Syncthing repo to apt sources Syncthing isn’t available to install using the default repo. So the first step is adding syncthing repo to our apt sources so we can install it on our computer. We need to open up a terminal and run the following command.&#xA;1echo &amp;#34;deb https://apt.syncthing.net/ syncthing stable&amp;#34; | sudo tee /etc/apt/sources.list.d/syncthing.list Step 2 Installing curl We must ensure we have curl installed to install the syncthing PGP key.</description>
+    </item>
+    <item>
+      <title>Dropbox vs Syncthing Which should you choose?</title>
+      <link>http://localhost:1313/tutorials/syncthing/dropbox-vs-syncthing/</link>
+      <pubDate>Sun, 16 Jan 2022 19:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/syncthing/dropbox-vs-syncthing/</guid>
+      <description>In the video below I will explain the differnece between Dropbox and Syncthing. It will explain why I went with syncthing.</description>
+    </item>
+  </channel>
+</rss>

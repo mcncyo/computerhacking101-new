@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Computer Hacking 101</title>
+    <link>http://localhost:1313/categories/git/</link>
+    <description>Recent content in Git on Computer Hacking 101</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Feb 2023 19:54:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up a Secure GitHub Account and Use Security Features</title>
+      <link>http://localhost:1313/tutorial/github/createingSecureGithubAccount/</link>
+      <pubDate>Tue, 08 Mar 2022 12:54:29 +0000</pubDate>
+      <guid>http://localhost:1313/tutorial/github/createingSecureGithubAccount/</guid>
+      <description>GitHub is a popular platform used by developers to collaborate on projects and share code. However, as with any online platform, it&#39;s important to take steps to secure your account and protect your data. In this guide, we&#39;ll walk you through the steps you can take to set up a secure GitHub account and use security features.&#xA;Create a Strong Password When creating your GitHub account, make sure to use a strong password that is not easily guessable.</description>
+    </item>
+  </channel>
+</rss>
