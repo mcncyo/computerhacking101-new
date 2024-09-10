@@ -25,14 +25,14 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 
 # Defaults to true if not set
 # Enable copyRight Footer Stamp. Takes in attribution
-enableCopyright = false
+enableCopyright = true
 
 # search
 [search]
 on = true
 global = true # turn to `true` to enable global search
 [search.algolia]
-enable = true # if false search will default to fusejs
+enable = false# if false search will default to fusejs
 id = "Q40WQQX84U" # Application ID
 index = "compose" # Index name
 key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
@@ -51,5 +51,5 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 # optional
 # attribution. Feel free to delete this
 [author]
-  name = "Chis allen"
+  name = "Chris allen"
   url = "https://chrisallen.us"
