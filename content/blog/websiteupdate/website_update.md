@@ -2,12 +2,14 @@
 title: "Feb 15, 2023, update"
 url: /blog/feb152023update
 date:  2023-02-25T19:54:29
-
+image = "/images/blog/websiteupdatefeb2023.webp"
 draft: false
 author: "Chris Allen"
 description: "Update what is going on with comptuerhacking101.com"
 
 ---
+
+# Update what is going on with comptuerhacking101.com
 
 ## move to another server
 
