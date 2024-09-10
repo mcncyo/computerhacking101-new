@@ -8,7 +8,6 @@ description: "Update what is going on with comptuerhacking101.com"
 
 ---
 
-# Update what is going on with comptuerhacking101.com
 
 ## move to another server
 
