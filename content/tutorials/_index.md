@@ -3,13 +3,6 @@ title = "Tutorials' Docs"
 weight = 1
 +++
 
-Just an example of an additional docs folder.
+Welcome to the Tutorials page! Here, you can find a variety of resources to help you learn and explore. Use the navigation menu on the left to locate the tutorial you're interested in. We offer both video tutorials and comprehensive documentation, so whether you prefer learning through visuals or reading step-by-step guides, we’ve got you covered.
 
-Surprised that it doesn't have a left sidebar menu? Worry not; just [follow this instructions to enable it](../docs/compose/organize-content/#documentation).
-
-<!-- That content is better than dummy lorem ipsum 2) That content serves a good real-world demo for this theme 3) Publish more structured docs for each theme which are better than long blocky READMEs -->
-
-{{< button "./example" "Tutorials" "mb-1" >}}
-
-{{< button "../docs/" "Back to docs" >}}
-
+Our current selection includes a range of topics, and we're actively working on expanding our library with more tutorials and in-depth documentation. Be sure to check back regularly for new content and updates. If you have any suggestions or requests for future tutorials, feel free to reach out to us. We're here to support your learning journey!
