@@ -1,15 +1,14 @@
 ---
 title: Docker related resources
-url: "/tutorial/github/createingSecureGithubAccount"
+url: "/tutorials/docker"
 date: 2022-03-08T12:54:29
 lastmod: 2023-02-22T19:54:29
 #image: images/syncthingonlinux/installsyncthingonlinux.png
 author: Chris Allen
 categories:
-- github
-- git
+- docker
 
-description: "Resources on how to use docker."
+description: "Docker related resources"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: How to Set Up a Secure GitHub Account and Use Security Features
-url: "/tutorial/github/createingSecureGithubAccount"
+url: "/tutorial/git/creatingSecureGithubAccount"
 date: 2022-03-08T12:54:29
 lastmod: 2023-02-22T19:54:29
 #image: images/syncthingonlinux/installsyncthingonlinux.png
