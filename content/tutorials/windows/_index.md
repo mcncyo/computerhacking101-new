@@ -1,15 +1,7 @@
 ---
 title: "Windows"
 image: ""
-date:
-    - date
-    - publishDate
-    - lastmod
-lastmod:
- - lastmod
- - :git
- - date
- - publishDate
+date: 2024-03-08T12:54:29
 draft: false
 aliases:
 - "/tags/windows"

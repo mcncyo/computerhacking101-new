@@ -1,20 +1,17 @@
 ---
-title: "Docker Documentation"
-description: Explore our Docker docs for setup guides, container management, and advanced tips to streamline your development.
-image: ""
-date:
-    - date
-    - publishDate
-    - lastmod
-lastmod:
- - lastmod
- - :git
- - date
- - publishDate
-draft: false
-aliases:
-- "/tags/docker"
+title: Docker related resources
+url: "/tutorial/github/createingSecureGithubAccount"
+date: 2022-03-08T12:54:29
+lastmod: 2023-02-22T19:54:29
+#image: images/syncthingonlinux/installsyncthingonlinux.png
+author: Chris Allen
+categories:
+- github
+- git
+
+description: "Resources on how to use docker."
 ---
+
 
 Welcome to our comprehensive collection of Docker-related resources. Whether you're just getting started with Docker or you're an advanced user, we have everything you need to build, ship, and run your applications more efficiently. Our documentation covers a wide range of topics, from installation and setup to advanced container management, ensuring that you can harness the full power of Docker in your development and production environments.
 
