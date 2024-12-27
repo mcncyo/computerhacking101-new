@@ -23,6 +23,9 @@ ENV HUGO_MODULE_PROXY=${HUGO_MODULE_PROXY}
 ARG NPM_CONFIG_REGISTRY=
 ENV NPM_CONFIG_REGISTRY=${NPM_CONFIG_REGISTRY}
 
+
+RUN npm audit fix
+
 # Build site
 RUN hugo --gc --enableGitInfo \
     && npm install -g @fullhuman/postcss-purgecss rtlcss \
